@@ -1,0 +1,166 @@
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: CALC
+At [chip:0][processor: 1], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:1][processor: 0], Instruction Generated: WR 4, 216
+At [chip:1][processor: 0], There is a L1 miss searching the block 4
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:1][processor: 1], Instruction Generated: WR 3, 27
+At [chip:1][processor: 1], There is a L1 miss searching the block 3
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:0][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 11, 7965
+At [chip:0][processor: 1], There is a L1 miss searching the block 11
+At [chip:0][processor: 0], Instruction Generated: WR 14, 66
+At [chip:0][processor: 0], There is a L1 miss searching the block 14
+At [chip:1][processor: 0], Instruction Generated: RD 9
+At [chip:1][processor: 0], There is a L1 miss searching the block 9
+===============================================================================
+===============================================================================
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: RD 1
+At [chip:0][processor: 1], There is a L1 miss searching the block 1
+At [chip:1][processor: 1], Instruction Generated: WR 7, 64
+At [chip:1][processor: 1], There is a L1 miss searching the block 7
+===============================================================================
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: RD 2
+At [chip:0][processor: 0], There is a L1 miss searching the block 2
+At [chip:1][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: RD 9
+At [chip:1][processor: 0], There is a L1 miss searching the block 9
+===============================================================================
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 2, 161
+At [chip:0][processor: 1], There is a L1 miss searching the block 2
+At [chip:1][processor: 1], Instruction Generated: CALC
+===============================================================================
+At [chip:1][processor: 1], Instruction Generated: RD 4
+At [chip:1][processor: 1], There is a L1 miss searching the block 4
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: RD 0
+At [chip:0][processor: 0], There is a L1 miss searching the block 0
+At [chip:1][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: WR 9, 17
+At [chip:1][processor: 0], There is a L1 miss searching the block 9
+===============================================================================
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:1][processor: 1], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: RD 0
+At [chip:0][processor: 1], There is a L1 miss searching the block 0
+At [chip:1][processor: 1], Instruction Generated: WR 10, 165
+At [chip:1][processor: 1], There is a L1 miss searching the block 10
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: RD 8
+At [chip:0][processor: 0], There is a L1 miss searching the block 8
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 5, 7741
+At [chip:0][processor: 1], There is a L1 HIT searching the block 5
+At [chip:1][processor: 0], Instruction Generated: CALC
+At [chip:1][processor: 1], Instruction Generated: RD 8
+At [chip:1][processor: 1], There is a L1 miss searching the block 8
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 11, 186
+At [chip:0][processor: 1], There is a L1 miss searching the block 11
+At [chip:1][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: RD 2
+At [chip:0][processor: 0], There is a L1 miss searching the block 2
+At [chip:1][processor: 0], Instruction Generated: WR 10, 7994
+At [chip:1][processor: 0], There is a L1 miss searching the block 10
+===============================================================================
+At [chip:1][processor: 1], Instruction Generated: WR 2, 32
+At [chip:1][processor: 1], There is a L1 miss searching the block 2
+===============================================================================
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:1][processor: 1], Instruction Generated: RD 10
+At [chip:1][processor: 1], There is a L1 miss searching the block 10
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:0][processor: 0], Instruction Generated: WR 8, 97
+At [chip:0][processor: 0], There is a L1 miss searching the block 8
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 6, 85
+At [chip:0][processor: 1], There is a L1 miss searching the block 6
+At [chip:1][processor: 0], Instruction Generated: WR 13, 90
+At [chip:1][processor: 0], There is a L1 miss searching the block 13
+===============================================================================
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: RD 7
+At [chip:0][processor: 0], There is a L1 miss searching the block 7
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: RD 11
+At [chip:1][processor: 0], There is a L1 miss searching the block 11
+===============================================================================
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: RD 11
+At [chip:0][processor: 1], There is a L1 miss searching the block 11
+At [chip:1][processor: 1], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: RD 6
+At [chip:0][processor: 0], There is a L1 miss searching the block 6
+At [chip:1][processor: 1], Instruction Generated: WR 0, 70
+At [chip:1][processor: 1], There is a L1 miss searching the block 0
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: RD 0
+At [chip:1][processor: 0], There is a L1 miss searching the block 0
+===============================================================================
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: WR 0, 7860
+At [chip:0][processor: 0], There is a L1 miss searching the block 0
+At [chip:1][processor: 1], Instruction Generated: RD 12
+At [chip:1][processor: 1], There is a L1 miss searching the block 12
+===============================================================================
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 5, 50
+At [chip:0][processor: 1], There is a L1 HIT searching the block 5
+===============================================================================
+At [chip:0][processor: 1], Instruction Generated: WR 13, 7925
+At [chip:0][processor: 1], There is a L1 miss searching the block 13
+At [chip:1][processor: 0], Instruction Generated: RD 0
+At [chip:1][processor: 0], There is a L1 miss searching the block 0
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: WR 8, 7941
+At [chip:0][processor: 0], There is a L1 miss searching the block 8
+===============================================================================
+===============================================================================
+At [chip:1][processor: 1], Instruction Generated: RD 1
+At [chip:1][processor: 1], There is a L1 miss searching the block 1
+At [chip:0][processor: 1], Instruction Generated: WR 4, 98
+At [chip:0][processor: 1], There is a L1 miss searching the block 4
+===============================================================================
+===============================================================================
+At [chip:1][processor: 0], Instruction Generated: WR 14, 7975
+At [chip:1][processor: 0], There is a L1 miss searching the block 14
+At [chip:0][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:0][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:1][processor: 1], Instruction Generated: CALC
+At [chip:0][processor: 1], Instruction Generated: CALC
+At [chip:0][processor: 0], Instruction Generated: CALC
+===============================================================================
+At [chip:1][processor: 1], Instruction Generated: RD 9
+At [chip:1][processor: 1], There is a L1 miss searching the block 9
+At [chip:0][processor: 1], Instruction Generated: WR 0, 13
+At [chip:0][processor: 1], There is a L1 miss searching the block 0
+At [chip:0][processor: 0], Instruction Generated: WR 7, 25
+At [chip:0][processor: 0], There is a L1 miss searching the block 7
+===============================================================================
